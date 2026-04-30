@@ -9,7 +9,4 @@
 9
 0
 
-CHMa = 1
-
-website change = 1
-CHMa = 2
+local = 1
