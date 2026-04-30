@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 11
 22
 22
